@@ -6,7 +6,7 @@ NFC Data Exchange Format (NDEF) is a common data format that operates across all
 
 This code works with the cheap MFRC522 tag reader.
 
-This is a fork of this [NDEF Library](https://github.com/TheNitek/NDEF), but with the more maintained [MFRC522 library](https://github.com/OSSLibraries/Arduino_MFRC522v2).
+This is a fork of this [NDEF Library](https://github.com/TheNitek/NDEF), but with the more maintained [MFRC522v2 library](https://github.com/OSSLibraries/Arduino_MFRC522v2).
 
 ### Supports 
  - Reading from Mifare Classic Tags with 4 byte UIDs.
